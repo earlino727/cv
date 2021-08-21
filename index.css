@@ -12,3 +12,6 @@ th, td {
   form.form-example {
     display: table;
 }
+body{
+  background-color: powderblue;
+}
